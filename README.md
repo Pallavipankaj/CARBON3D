@@ -1,4 +1,8 @@
-# CARBON3D
+# CARBON in 3D
+<img width="909" alt="atmos2" src="https://github.com/Pallavipankaj/CARBON3D/assets/108530842/556633a7-cba2-4edc-bc43-b95f354f393b">
+
+
+
 "In this project, I have employed fundamental HTML and CSS techniques, coupled with guidance from educational resources like YouTube, to craft a captivating 3D model representing a carbon atom suspended in space. This endeavor showcases a fusion of creative design and informative content.
 
 The centerpiece of the project is the intricately designed carbon atom, meticulously crafted to bring out its atomic structure in a visually appealing manner. This 3D representation serves as a captivating visual demonstration of the atomic world, enhancing our understanding of the building blocks of matter.
